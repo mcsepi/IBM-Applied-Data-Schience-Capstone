@@ -1,1 +1,1 @@
-# IBM-Applied-Data-Schience-Capstone
+# Coursera IBM Applied Data Science Capstone by Miklos Csepi
